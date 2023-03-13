@@ -11,7 +11,6 @@ export const Home = () => {
   return (
     <>
     <div className="home">
-    <Header />
     <Carousel />
     <Stores />
     <Offers/>
